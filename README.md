@@ -1,4 +1,4 @@
-# SOEN 6441 Battleship
+# Battleship Game
 
 ### Installing Maven (Mac Only)
 ```shell
